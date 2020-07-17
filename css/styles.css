@@ -1,0 +1,347 @@
+#header {
+  text-align: center;
+  color: #fff;
+  background: rgb(186,34,209);
+background: linear-gradient(90deg, rgba(186,34,209,1) 3%, rgba(0,170,201,1) 96%);
+    padding: 5px 10px 5px 10px;
+    height: 100%;
+    position: relative;
+    line-height: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#header p {
+  margin-bottom: 5px;;
+  margin-top: 5px;
+}
+
+#header a {
+  color: #fff;
+  font-size: 10px;
+}
+
+
+
+/* .container-fluid {
+  padding-left: 50px;
+  padding-right: 200px;
+
+} */
+
+.navbar {
+  padding-left: 100px;
+  padding-right: 200px;
+}
+
+.navbar-brand {
+  color: blue;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.btn {
+  background-color: #000080;
+  color: #fff;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+
+
+
+.big-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  padding-top: 100px;
+  padding-left: 60px;
+}
+
+.para {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-left: 60px;
+}
+
+.para1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  padding-left: 60px;
+}
+
+.btn1 {
+  background-color: #483D8B;
+  font-family: "Ubuntu";
+  font-weight: 400;
+  border-radius: 0;
+  border: 0;
+  margin-left: 60px;
+}
+
+.title-image {
+  height: 500px;
+
+}
+
+
+
+.box1 {
+  height: 300px;
+  background-color: #D3D3D3;
+  position: relative;
+  width: 1700px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+ .box2 {
+  position: absolute;
+  margin-top: 470px;
+  background-color: #483D8B	;
+  color: #fff;
+  margin-left: 600px;
+  margin-right: 150px;
+  width: 850px;
+
+}
+
+.box2 h3 {
+  text-align: center;
+  padding: 30px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.box2 li {
+  line-height: 2.5;
+  font-family: "Montserrat";
+  font-weight: 300;
+  margin-left: 80px;
+  word-wrap: break-word;
+}
+
+.box2 p {
+  line-height: 0;
+margin-left: 120px;
+}
+
+.btn2 {
+  background-color: #fff;
+  font-family: "Ubuntu";
+  font-weight: 400;
+  border-radius: 0;
+  border: 0;
+  color: #483D8B;
+  margin-left: 120px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.box3 {
+  position: absolute;
+  margin-top: 550px;
+  margin-left: 330px;
+}
+
+#features .image {
+  margin-left: 180px;
+  margin-top: 180px;
+}
+
+#features .feature-content {
+  margin-top: 280px;
+  padding-right: 150px;
+}
+
+#features h2 {
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+#features p{
+  margin-top: 20px;
+}
+
+#performance {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#performance .line {
+  background-color: #483D8B;
+  height: 100px;
+  width: 1400px;
+  margin-left: 150px;
+}
+
+#performance .curve{
+  background-color: #00008B;
+  width: 100px;
+  height: 100px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+.cont {
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.cont p{
+  color: #fff;
+  margin-top: 15px;
+}
+
+.cont h2 {
+  font-family: "Montserrat";
+  font-weight: 700px;
+  color: #fff;
+
+  line-height: 0;
+}
+
+.image3 {
+  margin-left: 150px;
+}
+
+.image3 img {
+  height: 500px;
+}
+
+#car {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#car .carousel {
+  border: 4px solid #483D8B;
+  width: 1400px;
+  margin-left: 150px;
+  height: 200px;
+  position: relative;
+}
+
+.hds {
+  position: absolute;
+  z-index: 1;
+  bottom: 170px;
+  background-color: #fff;
+  color: #483D8B;
+  padding-right: 20px;
+  font-family: "Ubuntu";
+  font-weight: 700;
+  font-size: 2rem;
+
+}
+
+#car img {
+
+}
+
+#done {
+  margin-top: 20px;
+}
+
+
+
+
+/* #savings .content {
+  margin-left: 200px;
+} */
+
+ .colored {
+  background-color: #483D8B;
+  height: 400px;
+}
+
+.testimonial-image {
+  margin-left: 280px;
+}
+
+.testimonial-text {
+  margin-right: 250px;
+  color: #fff;
+  font-family: "Ubuntu";
+  font-weight: 400;
+  margin-top: 100px;
+}
+
+.test-text h3 {
+  font-family: "Ubuntu";
+  font-weight: 600;
+  color: #fff;
+  font-size: 30px;
+}
+
+.test-text p {
+  color: #fff;
+}
+
+.btn3 {
+  background-color: #fff;
+  color: #483D8B;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+
+
+/* #savings .img1 {
+ margin-left: 300px;
+
+ height: 300px;
+
+} */
+
+#last {
+  margin-top: 250px;
+  background-color: black;
+}
+
+.black {
+  position: relative;
+  height: 625px;
+}
+
+#last .row {
+  margin-top: 20px;
+  position: absolute;
+  margin-left: 300px;
+}
+
+#last .a {
+  color: #fff;
+  padding-left: 200px;
+}
+
+hr {
+  border: 0 none;
+  width: 100%;
+  height: 1px;
+  background-color: grey;
+  position: absolute;
+  margin-top: 180px;
+}
+
+.cot {
+  position: absolute;
+  margin-top: 200px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.end {
+  position: absolute;
+  text-align: center;
+  padding-left: 500px;
+  background-color: grey;
+  padding-right: 500px;
+  left: 0;
+  right: 0;
+  height: 25px;
+}
